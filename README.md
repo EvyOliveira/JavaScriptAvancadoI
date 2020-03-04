@@ -1,6 +1,6 @@
 # [JavaScript avançado I](https://github.com/EvyOliveira/JavaScriptAvancadoI)
 
-> Treinamento da carreira front-end da Alura com enfoque em ES6, orientação à objetos e padrões de projetos. Este projeto tem o objetivo de representar as negociações de produtos com a inserção, esclusão e importação de negociações. 
+> Treinamento da carreira front-end da Alura com enfoque em ES6, orientação à objetos e padrões de projetos. Este projeto tem o objetivo de representar as negociações de produtos com a inserção, exclusão e importação de negociações. 
 
 ## Funcionalidades
 
