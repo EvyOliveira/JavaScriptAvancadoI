@@ -1,0 +1,63 @@
+{
+"editor.fontFamily": "Fira Code",
+"editor.fontLigatures": true,
+"editor.rulers": [80, 120],
+"editor.formatOnSave": false, 
+"eslint.autoFixOnSave": true,
+"eslint.validate": [
+    {
+        "language": "javascript",
+        "autofix": true
+    },
+    {
+        "language": "javascriptreact",
+        "autofix": true
+    },
+    {
+        "language": "typescript",
+        "autofix": true
+    },
+    {
+        "language": "typescriptreact",
+        "autofix": true
+    },
+    {
+        "language": "typescript",
+        "autofix": true
+    }
+],
+
+"editor.renderLineHighlight": "gutter",
+"workbench.iconTheme": "material-icon-theme",
+"workbench.startupEditor": "newUntitledFile",
+"editor.tabSize": 2,
+"window.zoomLevel": 1, 
+"extensions.ignoreRecommendations": false, 
+"emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "nunjunks": "html"
+},
+"emmet.sincludeLanguages": {
+    "javascript": "jsx",
+    "nunjunks":"html"
+},
+
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "nunjunks":"html"
+},
+"javascript.updateImportsOnFileMove.enable": "never",
+"gitlens.codeLens.recentChange.enable": false,
+"gitlens.codeLens.authots.enable": false,
+"gitlens.codeLens.enable": false, 
+"breadcrumbs.enable": true, 
+"git.enableSmartCommit": true, 
+"editor.parameterHints.enable": false, 
+"typescript.updateImportsOnFileMove.enable": "never",
+"terminal.integrated.shell.osx": "/bin/zsh",
+"explorer.confirmDragAndDrop": false,
+"liveshare.featureSet": "insiders",
+"explorer.confirmDelete": false, 
+"typescript.confirmDelete": "verbose"
+
+}
